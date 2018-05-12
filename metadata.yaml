@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2451
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Lucius_Gwynn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43096#LeinsterBeautiful-Ireland-Series
 gutenberg_issued: '2013-07-05'
 gutenberg_type: Text
 identifiers:
